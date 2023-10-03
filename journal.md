@@ -2,7 +2,7 @@
 
 ## Mercredi 20 septembre
 Premier cours :
-introduction pas de difficultés pour l'instant. (Plus particulièrement révision de connaisances de Licence TAL) 🧠
+1. introduction pas de difficultés pour l'instant. (Plus particulièrement révision de connaisances de Licence TAL) 🧠
 
 ## Mercredi 27 septembre 
 Deuxième cours :
