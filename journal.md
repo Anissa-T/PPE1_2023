@@ -1,4 +1,4 @@
-# Journal d'Anissa
+# Journal d'Anissa 🌻
 
 ## Mercredi 20 septembre
 
