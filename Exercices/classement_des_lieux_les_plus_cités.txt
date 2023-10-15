@@ -1,0 +1,9 @@
+ 107 T1	Location 0 6	France
+  51 T2	Location 19 22	Rio
+  41 T1	Location 0 7	Burundi
+ 138 T1	Location 0 6	France
+  26 T1	Location 0 10	États-Unis
+   9 T1	Location 0 5	Syrie
+  23 T1	Location 0 6	France
+   9 T1	Location 0 10	États-Unis
+   4 T1	Location 0 6	Europe

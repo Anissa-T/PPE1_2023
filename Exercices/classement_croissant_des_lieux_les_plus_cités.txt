@@ -1,0 +1,10 @@
+   4 T1	Location 0 6	Europe
+   9 T1	Location 0 10	États-Unis
+   9 T1	Location 0 5	Syrie
+  23 T1	Location 0 6	France
+  26 T1	Location 0 10	États-Unis
+  41 T1	Location 0 7	Burundi
+  51 T2	Location 19 22	Rio
+ 107 T1	Location 0 6	France
+ 138 T1	Location 0 6	France
+  ann cat ./2018/*/* | grep Location | sort | uniq -c | sort -nr | head -n3 >> classement_des_lieux_les_plus_cités.txt

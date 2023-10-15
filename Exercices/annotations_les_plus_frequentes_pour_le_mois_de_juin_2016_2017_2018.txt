@@ -1,0 +1,11 @@
+  20 T1	Location 0 6	France
+  11 T1	Location 0 10	États-Unis
+   3 T1	Location 0 6	Guyane
+   3 T1	Location 0 6	Canada
+   2 T4	Location 148 158	États-Unis
+   2 T4	Location 141 149	Colombie
+   2 T3	Date 47 59	2 avril 2017
+   2 T2	Person 9 24	François Fillon
+   2 T2	Person 18 25	Cassini
+   2 T1	Product 18 25	Cassini
+cat ./201*/04/* | sort | uniq -c | sort -nr | head -n10 > annotations_les_plus_frequentes_pour_le_mois_de_juin_2016_2017_2018
