@@ -16,7 +16,7 @@ echo "<html><body>" > tableau.html
 echo "<h2>Tableau $nom :</h2>" >> tableau.html
 echo "<br/>" >> tableau.html
 echo "<table>" >> tableau.html
-echo "<tr><th>ligne</th><th>URL</th><th>code</th><th>encodage</th>" >> tableau.html
+echo "<tr><th>ligne</th><th>URL</th><th>code</th><th>encodage</th></tr>" >> tableau.html
 
 #####
 
