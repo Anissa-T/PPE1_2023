@@ -35,6 +35,18 @@ Sixième cours :
 
 ## Mercredi 8 novembre 
 
-septième cours : 
+Septième cours : 
 
 R.A.S ✌️ 
+
+## Mercredi 22 novembre 
+
+Travail de groupe:
+
+petite remises en question personnelle ... (problèmes de rapidité niveau code... ) 
+lors de notre travail de groupe nous avons remarqué les problèmes suivants :
+- le concordancier ne fonctionne pas
+- certains charset ne s'affichent pas dans le tableau
+- certains contextes ne sont pas extrait alors que le mot est bien présent dans la page
+- certains sites affichent le code 000
+- certains textes en coréen sont bien en UTF-8 mais les contextes en txt s'affcihe horriblement 
